@@ -1,4 +1,4 @@
-module github.com/Picus-Security-Golang-Backend-Bootcamp/homework-3-aybukeertekin
+module github.com/Picus-Security-Golang-Backend-Bootcamp/homework-4-aybukeertekin
 
 go 1.17
 

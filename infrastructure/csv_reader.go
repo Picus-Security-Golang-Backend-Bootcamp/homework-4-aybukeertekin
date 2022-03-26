@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-3-aybukeertekin/domain/model"
+	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-4-aybukeertekin/domain/model"
 )
 
 func Read(path string) {

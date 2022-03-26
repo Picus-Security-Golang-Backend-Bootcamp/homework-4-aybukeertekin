@@ -3,8 +3,8 @@ package repository
 import (
 	"errors"
 
-	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-3-aybukeertekin/domain/model"
-	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-3-aybukeertekin/domain/utils"
+	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-4-aybukeertekin/domain/model"
+	"github.com/Picus-Security-Golang-Backend-Bootcamp/homework-4-aybukeertekin/domain/utils"
 	"gorm.io/gorm"
 )
 
